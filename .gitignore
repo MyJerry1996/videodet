@@ -1,0 +1,9 @@
+# test outputs
+runs/
+
+# weights 
+*.pt
+*.pth
+
+# data 
+*.mp4
