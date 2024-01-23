@@ -6,7 +6,9 @@ conda activate yolov7
 cd /home/zhongliankuangye/yolov7-trans/yolov7
 ```
 
-# 模型地址：https://drive.google.com/file/d/1QF5QbLjAcoGLzibdWuNi85BLCnJOT2tU/view?usp=drive_link
+# 资源地址
+模型权重：[模型权重](https://drive.google.com/file/d/1QF5QbLjAcoGLzibdWuNi85BLCnJOT2tU/view?usp=drive_link)
+测试视频：[测试视频](https://drive.google.com/file/d/123wHClUkll8s3ppGkik17SogA4u5QzLG/view?usp=drive_link)
 
 # 检测图片
 
